@@ -1,0 +1,11 @@
+/*
+autoboxing came  in java 5
+
+the automatic conversion of primitive into object is known as autoboxing
+and the automatic conversion of object into primitive is known as unboxing
+
+*/
+
+In the Java World , deprecated means not recommended, may be some flaws or better alternative is available. compiler gives warning for deprecated features
+
+ 

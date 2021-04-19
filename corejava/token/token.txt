@@ -1,0 +1,101 @@
+token= smallest individual unit of a Program
+
+types of token=
+PIKLO
+
+P= Punctuator (separtor)
+{,},[,],;,:,, '," (,) . etc
+
+I=Identifier
+indentifier are the names given to variable,method,class,array,interface etc
+
+K=Keyword
+words that carry special meaning to the language compiler
+
+how many keywords are there in java 16?
+
+java-7 = 50
+
+int
+byte
+short
+long
+float
+double
+class
+interface
+enum
+for
+while
+do
+switch
+case
+default
+if
+else
+try
+catch
+finally
+public
+private
+protected
+void
+static
+break
+continue
+etc
+
+
+all keywords are written in all small letters
+
+
+
+L=Literal
+
+fixed values that do not change during the execution of the program
+5
+2.3
+
+'c'
+
+"Jai Shree Ram"
+
+
+true 
+false
+
+null
+
+
+there are six types of literals-
+1 character  'a','$', escape sequence etc
+
+escape sequence are sequence of characters enclosed in single quotes or double quotes but begin with \ . some of them are
+
+\n=new line
+\b=backspace
+\t=tab
+\\
+\'
+\"
+etc
+
+
+
+
+
+
+2 boolean  true,false
+3 integer 4,12,38,-71 etc 
+ 
+4 floating 2.5,-8.7 etc
+5 String "zzzz", "23+3"
+6 null 
+
+
+
+O=Operator
+
+Comment
+
+===========================
