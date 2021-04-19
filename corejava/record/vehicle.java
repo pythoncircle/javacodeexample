@@ -1,0 +1,1 @@
+record Vehicle(String brand, String licensePlate) {}
