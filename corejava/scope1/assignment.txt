@@ -1,0 +1,13 @@
+1 accept values into two variables and swap their values without using the third variable
+2 accept a number and display the sum of all the numbers till that number
+3 accept a number and check whether it is odd or even
+4 accept a number and display its table 
+
+7
+14
+21
+28
+
+
+70
+

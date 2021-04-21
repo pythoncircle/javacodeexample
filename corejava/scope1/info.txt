@@ -1,0 +1,7 @@
+scope is the area or the region in which an identifier is known . In many cases it is curly bracket
+
+/*
+Let us C = yashwant kanetkar
+exploring c
+*/
+
