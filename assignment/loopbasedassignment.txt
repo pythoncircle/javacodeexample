@@ -1,0 +1,2 @@
+write a program that accepts a number in the range of 50-70. if the number is invalid then it should continue asking to enter the valid value
+ 
